@@ -2,7 +2,7 @@
 HORISEON
 
 ~~~~~~~~~~~~~~~
-### Description
+Description
 
 This webpage shows how to manage having an online brand.
 It shows how to market and advertise which helps get your foot through the door.
